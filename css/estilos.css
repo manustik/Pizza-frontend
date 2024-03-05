@@ -129,7 +129,7 @@ body{
     font-size: 35px;
     float: right; /*ASI SIEMPRE SE MANTENDRA A LA DERECHA BAJO CUALQUIER CIRCUSTANCIA*/
     display: none;
-    transition: all a.5s;
+    transition: all 0.5s;
 }
 
 .menu-principal i:hover{
